@@ -1,8 +1,10 @@
-## 1 ##
+## 2 ##
 <b> 25-02-2024 </b>
 - Fix Car exit button
 - Changed car controls to Arrows as default
+- Updated Update Lobby (yay!)
 
+## 1 ##
 <b> 24-02-2024 </b>
 - Glock
 - Siren lights for the police cars
