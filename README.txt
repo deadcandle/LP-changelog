@@ -1,3 +1,8 @@
+## 3 ##
+<b> 14-06-2024
+- Changes to the cars, added suspension and the driving physics configuration changed
+  They might be more stable so that it's possible to stand on them without falling off
+
 ## 2 ##
 <b> 25-02-2024 </b>
 - Fix Car exit button
